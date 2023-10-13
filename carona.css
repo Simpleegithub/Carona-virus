@@ -1,0 +1,28 @@
+
+
+
+.nav{
+    background-color: rgb(233,236,239);
+    padding: 20px;
+}
+
+.img-fluid{
+   position: absolute;
+   top: 10px;
+   width: 100px;
+   left: 15px;
+
+}
+
+.section-2{
+    margin-top: 50px;
+}
+
+
+
+@media(max-width:768px){
+    .img-fluid{
+        width: 70px;
+        top: 25px;
+    }
+}
